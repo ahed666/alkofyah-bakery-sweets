@@ -57,8 +57,8 @@ This website includes:
 
 ## 🔧 Technologies Used
 - **Laravel** (Backend)
-- **Vue.js** (Frontend)
-- **Tailwind CSS** (Styling)
+- **Bootstrap** (Styling)
+- **JavaScript**(Frontend)
 - **MySQL** (Database)
 
 ## 🚀 Live Demo (If Available)
