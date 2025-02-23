@@ -17,41 +17,41 @@ This website includes:
 
 ### **🏠 Home Pages**
 - **English Home Page**  
-  ![Home EN](./screenshots/home-en.jpg)
+  ![Home EN](./screenshots/home-en.png)
 - **Arabic Home Page**  
-  ![Home AR](./screenshots/home-page-ar.jpg)
+  ![Home AR](./screenshots/home-page-ar.png)
 
 ### **📂 Home Categories & New Products**
 - **Home Categories (EN)**  
-  ![Home Categories EN](./screenshots/home-categories-en.jpg)
+  ![Home Categories EN](./screenshots/home-categories-en.png)
 - **Home Categories (AR)**  
-  ![Home Categories AR](./screenshots/home-page-categories-ar.jpg)
+  ![Home Categories AR](./screenshots/home-page-categories-ar.png)
 - **Home New Products (EN)**  
-  ![Home New Products EN](./screenshots/home-newproducts-en.jpg)
+  ![Home New Products EN](./screenshots/home-newproducts-en.png)
 
 ### **🍽️ Menu Pages**
 - **Menu (EN)**  
-  ![Menu EN](./screenshots/menu-en.jpg)
+  ![Menu EN](./screenshots/menu-en.png)
 - **Menu (AR)**  
-  ![Menu AR](./screenshots/menu-ar.jpg)
+  ![Menu AR](./screenshots/menu-ar.png)
 
 ### **🛍️ Product Pages**
 - **Products by Category (EN)**  
-  ![Products Category EN](./screenshots/products-category-en.jpg)
+  ![Products Category EN](./screenshots/products-category-en.png)
 - **Product Details (EN)**  
-  ![Product Details EN](./screenshots/product-details-en.jpg)
+  ![Product Details EN](./screenshots/product-details-en.png)
 - **Related Products (EN)**  
-  ![Related Products EN](./screenshots/related-products-product-details-en.jpg)
+  ![Related Products EN](./screenshots/related-products-product-details-en.png)
 
 ### **📍 Branches Pages**
 - **Branches (EN)**  
-  ![Branches EN](./screenshots/branches-en.jpg)
+  ![Branches EN](./screenshots/branches-en.png)
 - **Branches (AR)**  
-  ![Branches AR](./screenshots/branches-ar.jpg)
+  ![Branches AR](./screenshots/branches-ar.png)
 
 ### **📞 Contact Page**
 - **Contact (AR)**  
-  ![Contact AR](./screenshots/contact-ar.jpg)
+  ![Contact AR](./screenshots/contact-ar.png)
 
 ---
 
